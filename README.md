@@ -55,7 +55,6 @@ npm start               # to open the app in your browser
     <li>View all providers.</li>
 </ul>
 
-<br>
 
 ### Providers Can:
 <ul>
@@ -64,7 +63,6 @@ npm start               # to open the app in your browser
     <li>Add comments to patient entries.</li>
 </ul>
 
-<br>
 
 ## Developers
 
